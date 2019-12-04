@@ -29,11 +29,10 @@
 
 #### Below are screenshots of time already put in:
 
-![Screenshot One](https://github.com/marcusjensen15/week-6-project-resubmit/blob/master/images/Screen%20Shot%202019-12-04%20at%2010.00.19%20AM.png)
-Format: ![ScrenshotOne](url)
+![Screenshot One](https://github.com/marcusjensen15/week-6-project-resubmit2/blob/master/images/Screen%20Shot%202019-12-04%20at%2010.00.19%20AM.png)
 
-![Screenshot Two](https://github.com/marcusjensen15/week-6-project-resubmit/blob/master/images/Screen%20Shot%202019-12-04%20at%2010.00.31%20AM.png)
-Format: ![ScreenshotTwo](url)
+
+![Screenshot Two](https://github.com/marcusjensen15/week-6-project-resubmit2/blob/master/images/Screen%20Shot%202019-12-04%20at%2010.00.31%20AM.png)
 
 
 ### License
